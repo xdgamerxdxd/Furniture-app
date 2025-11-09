@@ -1,4 +1,4 @@
-Mis see on
+Mis see on?
 
 Furniture-app on lihtne veebirakendus, mis võimaldab kasutajal:
 
@@ -6,7 +6,7 @@ registreerida / sisse logida,
 
 sirvida ja vaadata mööbli nimekirja ja detailvaateid,
 
-Peamised funktsioonid
+Peamised funktsioonid:
 
 Kasutaja autentimine.
 
