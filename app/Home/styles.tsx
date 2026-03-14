@@ -1,0 +1,13 @@
+import colors from "@/app/utils/colors"
+import { StyleSheet } from "react-native"
+
+export const styles = StyleSheet.create({
+    container: {
+        padding: 24,
+    },
+    list: {
+        padding: 24
+    }
+})
+
+export default styles;
