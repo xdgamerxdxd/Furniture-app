@@ -44,5 +44,5 @@ npm install
 
 ## Prerequisites
 
-Node.js
-Expo CLI (optional if using npx)
+* Node.js
+* Expo CLI (optional if using npx)
