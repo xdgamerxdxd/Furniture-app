@@ -1,15 +1,48 @@
-Mis see on?
+# Furniture-app
 
-Furniture-app on lihtne veebirakendus, mis võimaldab kasutajal:
+A simple Expo-based mobile application for browsing furniture products and managing user accounts.
 
-registreerida / sisse logida,
+## Features
 
-sirvida ja vaadata mööbli nimekirja ja detailvaateid,
+User Authentication
 
-Peamised funktsioonid:
+* Register a new account
 
-Kasutaja autentimine.
+* Log in and log out securely
 
-Tooteloend (pildid, nimetus, hind, lühikirjeldus).
+Product Catalog
 
-Tootedetailid (täpsem info, mitu pilti).
+* Browse a list of furniture items
+
+*  View product name, price, image, and short description
+
+Product Details
+
+*  View detailed product information
+
+*  Browse multiple images per item
+
+## Stack
+
+Expo (React Native)
+
+JavaScript / TypeScript (adjust as needed)
+
+Backend: (e.g. Firebase, REST API — specify if applicable)
+
+## Installation
+
+```
+git clone <your-repo-url>
+cd furniture-app
+npm install
+```
+
+## Running the app
+
+```npx expo start```
+
+## Prerequisites
+
+Node.js
+Expo CLI (optional if using npx)
