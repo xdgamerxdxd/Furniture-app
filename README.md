@@ -26,7 +26,7 @@ Product Details
 
 Expo (React Native)
 
-TypeScript (adjust as needed)
+TypeScript
 
 ## Installation
 
