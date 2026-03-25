@@ -31,7 +31,7 @@ TypeScript
 ## Installation
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/xdgamerxdxd/Furniture-app
 cd furniture-app
 npm install
 ```
