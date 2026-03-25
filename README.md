@@ -26,9 +26,7 @@ Product Details
 
 Expo (React Native)
 
-JavaScript / TypeScript (adjust as needed)
-
-Backend: (e.g. Firebase, REST API — specify if applicable)
+TypeScript (adjust as needed)
 
 ## Installation
 
@@ -46,4 +44,4 @@ npm install
 
 Node.js
 
-Expo CLI (optional if using npx)
+Expo CLI
